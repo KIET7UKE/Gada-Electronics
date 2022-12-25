@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Modern Full Stack ECommerce Application with Stripe
+
+![Screenshot (1254)](https://user-images.githubusercontent.com/76551267/209484297-5fc689cf-3993-40c8-bafd-825c4c005c2d.png)
+![Screenshot (1255)](https://user-images.githubusercontent.com/76551267/209484299-4fe505a4-0e04-4675-b289-349998f13ea1.png)
+![Screenshot (1256)](https://user-images.githubusercontent.com/76551267/209484307-b9257e8a-3a3f-49f6-8a72-3b8efdf8be3d.png)
+![Screenshot (1257)](https://user-images.githubusercontent.com/76551267/209484310-2b5a55b5-f46b-4719-85aa-70ba10c9550d.png)
+![Screenshot (1258)](https://user-images.githubusercontent.com/76551267/209484313-d72a9cb3-c81c-4480-b7ce-e4ec3bb17cc0.png)
+![Screenshot (1259)](https://user-images.githubusercontent.com/76551267/209484320-a27a420c-bd56-4610-922f-9f533325f217.png)
+![Screenshot (1260)](https://user-images.githubusercontent.com/76551267/209484323-a1271ebb-e86c-40b6-8897-e54f6bd0bece.png)
 
 ## Getting Started
 
